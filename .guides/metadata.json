@@ -1,0 +1,47 @@
+{
+ "sections": [
+  {
+   "id": "4cebca99-3ec8-0819-81e9-31ef7d24e380",
+   "title": "Computers in Communication",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computers-in-Communication-4ceb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a452bc68-e333-0b4d-e840-4d7581a2ca47",
+   "title": "Communication Innovation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Communication-Innovation-a452.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "33a0c185-fa7f-b2c0-7783-2073ff751149",
+   "title": "Communication Innovation - Rubric",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Communication-Innovation---Rubric-33a0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
